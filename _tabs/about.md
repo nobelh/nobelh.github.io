@@ -1,5 +1,5 @@
 ---
-title: About
+title: Nobel Herrera
 icon: fas fa-info-circle
 order: 4
 ---
