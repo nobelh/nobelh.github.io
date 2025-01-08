@@ -21,7 +21,7 @@ timezone: America/Santo_Domingo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: tun0.blog                          # the main title
+title: post-exploit.com                         # the main title
 
 tagline: Cyber musings from the wire   # it will display as the sub-title
 
@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Cyber musings from the wire
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://tun0.blog'
+url: 'https://post-exploit.com'
 
 github:
   username: nobelh             # change to your github username
